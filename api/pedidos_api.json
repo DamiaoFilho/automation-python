@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 9,
+    "data": "2026-02-13",
+    "status": "cancelado",
+    "itens": [
+      {
+        "produto_id": 7,
+        "quantidade": 3,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 2,
+        "quantidade": 3,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cliente_id": 9,
+    "data": "2026-03-07",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 6,
+        "quantidade": 2,
+        "preco_unitario": 69.9
+      },
+      {
+        "produto_id": 7,
+        "quantidade": 3,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 3,
+        "quantidade": 1,
+        "preco_unitario": 54.9
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cliente_id": 1,
+    "data": "2026-02-23",
+    "status": "cancelado",
+    "itens": [
+      {
+        "produto_id": 7,
+        "quantidade": 2,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "cliente_id": 9,
+    "data": "2026-03-16",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 1,
+        "quantidade": 1,
+        "preco_unitario": 29.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 1,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "cliente_id": 3,
+    "data": "2026-03-04",
+    "status": "pendente",
+    "itens": [
+      {
+        "produto_id": 8,
+        "quantidade": 1,
+        "preco_unitario": 44.9
+      },
+      {
+        "produto_id": 7,
+        "quantidade": 2,
+        "preco_unitario": 189.9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "cliente_id": 9,
+    "data": "2026-01-25",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 1,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "cliente_id": 2,
+    "data": "2026-01-28",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 8,
+        "quantidade": 3,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "cliente_id": 6,
+    "data": "2026-03-23",
+    "status": "cancelado",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 2,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 4,
+        "quantidade": 2,
+        "preco_unitario": 39.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 1,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "cliente_id": 2,
+    "data": "2026-01-09",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 3,
+        "quantidade": 2,
+        "preco_unitario": 54.9
+      },
+      {
+        "produto_id": 4,
+        "quantidade": 1,
+        "preco_unitario": 39.9
+      },
+      {
+        "produto_id": 6,
+        "quantidade": 3,
+        "preco_unitario": 69.9
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "cliente_id": 2,
+    "data": "2026-01-25",
+    "status": "cancelado",
+    "itens": [
+      {
+        "produto_id": 6,
+        "quantidade": 1,
+        "preco_unitario": 69.9
+      },
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "cliente_id": 2,
+    "data": "2026-02-14",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "cliente_id": 2,
+    "data": "2026-03-12",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 1,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "cliente_id": 11,
+    "data": "2026-03-01",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "cliente_id": 1,
+    "data": "2026-02-27",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 2,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 1,
+        "quantidade": 1,
+        "preco_unitario": 29.9
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "cliente_id": 7,
+    "data": "2026-03-23",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 4,
+        "quantidade": 1,
+        "preco_unitario": 39.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "cliente_id": 3,
+    "data": "2026-01-02",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      },
+      {
+        "produto_id": 3,
+        "quantidade": 3,
+        "preco_unitario": 54.9
+      },
+      {
+        "produto_id": 4,
+        "quantidade": 1,
+        "preco_unitario": 39.9
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "cliente_id": 6,
+    "data": "2026-01-10",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 2,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 5,
+        "quantidade": 2,
+        "preco_unitario": 19.9
+      },
+      {
+        "produto_id": 7,
+        "quantidade": 2,
+        "preco_unitario": 189.9
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "cliente_id": 10,
+    "data": "2026-03-16",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 3,
+        "quantidade": 3,
+        "preco_unitario": 54.9
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "cliente_id": 7,
+    "data": "2026-02-02",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 5,
+        "quantidade": 2,
+        "preco_unitario": 19.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      },
+      {
+        "produto_id": 4,
+        "quantidade": 3,
+        "preco_unitario": 39.9
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "cliente_id": 5,
+    "data": "2026-01-27",
+    "status": "pendente",
+    "itens": [
+      {
+        "produto_id": 3,
+        "quantidade": 3,
+        "preco_unitario": 54.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "cliente_id": 5,
+    "data": "2026-02-09",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 4,
+        "quantidade": 3,
+        "preco_unitario": 39.9
+      },
+      {
+        "produto_id": 1,
+        "quantidade": 3,
+        "preco_unitario": 29.9
+      },
+      {
+        "produto_id": 2,
+        "quantidade": 2,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "cliente_id": 12,
+    "data": "2026-02-10",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 6,
+        "quantidade": 2,
+        "preco_unitario": 69.9
+      },
+      {
+        "produto_id": 4,
+        "quantidade": 3,
+        "preco_unitario": 39.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "cliente_id": 10,
+    "data": "2026-02-18",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 7,
+        "quantidade": 3,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "cliente_id": 10,
+    "data": "2026-02-11",
+    "status": "pendente",
+    "itens": [
+      {
+        "produto_id": 6,
+        "quantidade": 2,
+        "preco_unitario": 69.9
+      },
+      {
+        "produto_id": 1,
+        "quantidade": 2,
+        "preco_unitario": 29.9
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "cliente_id": 12,
+    "data": "2026-02-14",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 1,
+        "quantidade": 2,
+        "preco_unitario": 29.9
+      },
+      {
+        "produto_id": 3,
+        "quantidade": 2,
+        "preco_unitario": 54.9
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "cliente_id": 1,
+    "data": "2026-03-19",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 1,
+        "preco_unitario": 44.9
+      },
+      {
+        "produto_id": 7,
+        "quantidade": 2,
+        "preco_unitario": 189.9
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "cliente_id": 7,
+    "data": "2026-02-03",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      },
+      {
+        "produto_id": 1,
+        "quantidade": 1,
+        "preco_unitario": 29.9
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "cliente_id": 1,
+    "data": "2026-01-10",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 1,
+        "quantidade": 3,
+        "preco_unitario": 29.9
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "cliente_id": 6,
+    "data": "2026-03-21",
+    "status": "cancelado",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 3,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 6,
+        "quantidade": 3,
+        "preco_unitario": 69.9
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "cliente_id": 9,
+    "data": "2026-03-23",
+    "status": "pendente",
+    "itens": [
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "cliente_id": 2,
+    "data": "2026-02-23",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 1,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "cliente_id": 13,
+    "data": "2026-01-10",
+    "status": "pendente",
+    "itens": [
+      {
+        "produto_id": 7,
+        "quantidade": 2,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 1,
+        "quantidade": 3,
+        "preco_unitario": 29.9
+      },
+      {
+        "produto_id": 2,
+        "quantidade": 3,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "cliente_id": 1,
+    "data": "2026-02-06",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 8,
+        "quantidade": 1,
+        "preco_unitario": 44.9
+      },
+      {
+        "produto_id": 2,
+        "quantidade": 2,
+        "preco_unitario": 31.9
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "cliente_id": 5,
+    "data": "2026-01-20",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 3,
+        "quantidade": 3,
+        "preco_unitario": 54.9
+      },
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      },
+      {
+        "produto_id": 4,
+        "quantidade": 1,
+        "preco_unitario": 39.9
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "cliente_id": 8,
+    "data": "2026-03-15",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 8,
+        "quantidade": 3,
+        "preco_unitario": 44.9
+      },
+      {
+        "produto_id": 6,
+        "quantidade": 1,
+        "preco_unitario": 69.9
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "cliente_id": 13,
+    "data": "2026-01-01",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 3,
+        "quantidade": 2,
+        "preco_unitario": 54.9
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "cliente_id": 4,
+    "data": "2026-02-04",
+    "status": "enviado",
+    "itens": [
+      {
+        "produto_id": 3,
+        "quantidade": 1,
+        "preco_unitario": 54.9
+      },
+      {
+        "produto_id": 2,
+        "quantidade": 3,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 8,
+        "quantidade": 2,
+        "preco_unitario": 44.9
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "cliente_id": 1,
+    "data": "2026-01-14",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 7,
+        "quantidade": 2,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 1,
+        "quantidade": 2,
+        "preco_unitario": 29.9
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "cliente_id": 2,
+    "data": "2026-01-02",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 1,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 3,
+        "quantidade": 1,
+        "preco_unitario": 54.9
+      },
+      {
+        "produto_id": 5,
+        "quantidade": 2,
+        "preco_unitario": 19.9
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "cliente_id": 5,
+    "data": "2026-01-12",
+    "status": "entregue",
+    "itens": [
+      {
+        "produto_id": 2,
+        "quantidade": 1,
+        "preco_unitario": 31.9
+      },
+      {
+        "produto_id": 7,
+        "quantidade": 3,
+        "preco_unitario": 189.9
+      },
+      {
+        "produto_id": 5,
+        "quantidade": 1,
+        "preco_unitario": 19.9
+      }
+    ]
+  }
+]
